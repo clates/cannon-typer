@@ -32,7 +32,51 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
+    transform: rotate(360deg);
+  }
+}
+
+.cannon {
+  position: absolute;
+  top:950px;
+  left:20px;
+  height: 200px;
+  /* rotate: -35deg; */
+}
+
+.fruitContainer {}
+
+.fruit {
+  display: flex;
+  flex-direction: column;
+  /* Roughly paraboly */
+  offset-path: path('M 120 4 C 372 -665 1615 -1533 2028 1');
+  position: absolute;
+}
+
+.fruit>span {
+  text-transform: capitalize;
+  font-size: 6rem;
+}
+
+@keyframes move {
+  0% {
+    offset-distance: 0%;
+  }
+
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
     transform: rotate(360deg);
   }
 }
