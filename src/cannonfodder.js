@@ -11,6 +11,7 @@ import momsmile from './assets/familyFaces/momsmile.png'
 import sillyRach from './assets/familyFaces/sillyRach.png'
 import unclejason from './assets/familyFaces/unclejason.png'
 import sillyMomHead from './assets/familyFaces/sillyMomHead.png'
+import seanHead from './assets/familyFaces/seanHead.png'
 
 export const cannonFodder = [
   christopherSilly,
@@ -24,6 +25,7 @@ export const cannonFodder = [
   momsmile,
   sillyRach,
   unclejason,
-  sillyMomHead
+  sillyMomHead,
+  seanHead
 ]
 
