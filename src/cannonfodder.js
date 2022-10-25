@@ -12,6 +12,15 @@ import sillyRach from './assets/familyFaces/sillyRach.png'
 import unclejason from './assets/familyFaces/unclejason.png'
 import sillyMomHead from './assets/familyFaces/sillyMomHead.png'
 import seanHead from './assets/familyFaces/seanHead.png'
+import beanHippie from './assets/familyFaces/beanHippie.png'
+import christopherFrog from './assets/familyFaces/christopherFrog.png'
+import edGrad from './assets/familyFaces/edGrad.png'
+import momDadHulk from './assets/familyFaces/momDadHulk.png'
+import seanSpaghetti from './assets/familyFaces/seanSpaghetti.png'
+import beautifulWife from './assets/familyFaces/beautifulWife.png'
+import gramma from './assets/familyFaces/gramma.png'
+import momDad from './assets/familyFaces/momDad.png'
+
 
 export const cannonFodder = [
   christopherSilly,
@@ -26,6 +35,15 @@ export const cannonFodder = [
   sillyRach,
   unclejason,
   sillyMomHead,
-  seanHead
+  seanHead,
+  beanHippie,
+  christopherFrog,
+  edGrad,
+  momDadHulk,
+  seanSpaghetti,
+  beautifulWife,
+  gramma,
+  momDad,
+
 ]
 
