@@ -1,15 +1,23 @@
 {
   "files": {
     "main.css": "/cannon-typer/static/css/main.d6e2d5b7.css",
-    "main.js": "/cannon-typer/static/js/main.fe28d9d7.js",
+    "main.js": "/cannon-typer/static/js/main.42edc49e.js",
     "static/js/787.27e39897.chunk.js": "/cannon-typer/static/js/787.27e39897.chunk.js",
     "static/media/christopherhulk.png": "/cannon-typer/static/media/christopherhulk.37cc054e52819cb8da4d.png",
     "static/media/teddy-roar.png": "/cannon-typer/static/media/teddy-roar.c785c816f3675015f4c0.png",
+    "static/media/christopherFrog.png": "/cannon-typer/static/media/christopherFrog.69a9e5441c84504b0048.png",
+    "static/media/beanHippie.png": "/cannon-typer/static/media/beanHippie.d601072aee6906ee8fa1.png",
     "static/media/dadjoefightnight.png": "/cannon-typer/static/media/dadjoefightnight.e02e1baab7d8c6736ea0.png",
+    "static/media/seanSpaghetti.png": "/cannon-typer/static/media/seanSpaghetti.78b37b0ae445fc091f1a.png",
+    "static/media/edGrad.png": "/cannon-typer/static/media/edGrad.c78af3382ba3a5d1d360.png",
+    "static/media/momDadHulk.png": "/cannon-typer/static/media/momDadHulk.fae5f564590cef44ee05.png",
+    "static/media/gramma.png": "/cannon-typer/static/media/gramma.a77c6d498c6d717ca8cf.png",
     "static/media/christopherSillyConstruction-small.png": "/cannon-typer/static/media/christopherSillyConstruction-small.ef6814fee1315575c867.png",
     "static/media/sillyRach.png": "/cannon-typer/static/media/sillyRach.cd01afa9923a04df0ddc.png",
+    "static/media/beautifulWife.png": "/cannon-typer/static/media/beautifulWife.4049589a40dc3bbb101c.png",
     "static/media/seanHead.png": "/cannon-typer/static/media/seanHead.27754320cbd72741e631.png",
     "static/media/sillyMomHead.png": "/cannon-typer/static/media/sillyMomHead.d36d8a869903f12a795e.png",
+    "static/media/momDad.png": "/cannon-typer/static/media/momDad.daddb67e6a1135bc76af.png",
     "static/media/momsmile.png": "/cannon-typer/static/media/momsmile.cda1dec2d90097c93dce.png",
     "static/media/grammaGail.png": "/cannon-typer/static/media/grammaGail.46981faa249edb8e94e6.png",
     "static/media/rach.png": "/cannon-typer/static/media/rach.7c420bf9bc77f65e1548.png",
@@ -31,11 +39,11 @@
     "static/media/lemon.svg": "/cannon-typer/static/media/lemon.76cc103805ffbcabfdffce308bbd5375.svg",
     "index.html": "/cannon-typer/index.html",
     "main.d6e2d5b7.css.map": "/cannon-typer/static/css/main.d6e2d5b7.css.map",
-    "main.fe28d9d7.js.map": "/cannon-typer/static/js/main.fe28d9d7.js.map",
+    "main.42edc49e.js.map": "/cannon-typer/static/js/main.42edc49e.js.map",
     "787.27e39897.chunk.js.map": "/cannon-typer/static/js/787.27e39897.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e2d5b7.css",
-    "static/js/main.fe28d9d7.js"
+    "static/js/main.42edc49e.js"
   ]
 }
