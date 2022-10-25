@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cannon-typer/static/css/main.d6e2d5b7.css",
+    "main.js": "/cannon-typer/static/js/main.2f7ff089.js",
+    "static/js/787.27e39897.chunk.js": "/cannon-typer/static/js/787.27e39897.chunk.js",
+    "static/media/christopherhulk.png": "/cannon-typer/static/media/christopherhulk.37cc054e52819cb8da4d.png",
+    "static/media/teddy-roar.png": "/cannon-typer/static/media/teddy-roar.c785c816f3675015f4c0.png",
+    "static/media/dadjoefightnight.png": "/cannon-typer/static/media/dadjoefightnight.e02e1baab7d8c6736ea0.png",
+    "static/media/christopherSillyConstruction-small.png": "/cannon-typer/static/media/christopherSillyConstruction-small.ef6814fee1315575c867.png",
+    "static/media/sillyRach.png": "/cannon-typer/static/media/sillyRach.cd01afa9923a04df0ddc.png",
+    "static/media/sillyMomHead.png": "/cannon-typer/static/media/sillyMomHead.d36d8a869903f12a795e.png",
+    "static/media/momsmile.png": "/cannon-typer/static/media/momsmile.cda1dec2d90097c93dce.png",
+    "static/media/grammaGail.png": "/cannon-typer/static/media/grammaGail.46981faa249edb8e94e6.png",
+    "static/media/rach.png": "/cannon-typer/static/media/rach.7c420bf9bc77f65e1548.png",
+    "static/media/ashleybeautiful.png": "/cannon-typer/static/media/ashleybeautiful.5994af88591bb35f95f9.png",
+    "static/media/unclejason.png": "/cannon-typer/static/media/unclejason.bb0a7140015a742cb8ea.png",
+    "static/media/christopherhelmet.png": "/cannon-typer/static/media/christopherhelmet.d615271acaf7741b489a.png",
+    "static/media/quack.wav": "/cannon-typer/static/media/quack.1bc6e49cc791a479273a.wav",
+    "static/media/cannon2.mp3": "/cannon-typer/static/media/cannon2.85db74b62bc9174e4fcb.mp3",
+    "static/media/cannon3.mp3": "/cannon-typer/static/media/cannon3.b58362f824e7a943215b.mp3",
+    "static/media/cannon1.mp3": "/cannon-typer/static/media/cannon1.3e63a2a573990fbd664f.mp3",
+    "static/media/swoosh.mp3": "/cannon-typer/static/media/swoosh.3ad4b4cb383e710b0764.mp3",
+    "static/media/pumpkin.svg": "/cannon-typer/static/media/pumpkin.380a06714813ca2504e265bae9d1b6d7.svg",
+    "static/media/cherries.svg": "/cannon-typer/static/media/cherries.8eae1ffdc2a3b8e0fa296f3c11c805de.svg",
+    "static/media/grape.svg": "/cannon-typer/static/media/grape.1a973315806d8c97813ac8a90c4d24b2.svg",
+    "static/media/strawberry.svg": "/cannon-typer/static/media/strawberry.df1195f1ba035ed630e5453a70dfb366.svg",
+    "static/media/logo.svg": "/cannon-typer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/kiwi.svg": "/cannon-typer/static/media/kiwi.522c58dbb54f1d6e8cdbe6c9a7bcf966.svg",
+    "static/media/watermellon.svg": "/cannon-typer/static/media/watermellon.5abf14b52549d925283ac2dc22b8645b.svg",
+    "static/media/lemon.svg": "/cannon-typer/static/media/lemon.76cc103805ffbcabfdffce308bbd5375.svg",
+    "index.html": "/cannon-typer/index.html",
+    "main.d6e2d5b7.css.map": "/cannon-typer/static/css/main.d6e2d5b7.css.map",
+    "main.2f7ff089.js.map": "/cannon-typer/static/js/main.2f7ff089.js.map",
+    "787.27e39897.chunk.js.map": "/cannon-typer/static/js/787.27e39897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e2d5b7.css",
+    "static/js/main.2f7ff089.js"
+  ]
+}
